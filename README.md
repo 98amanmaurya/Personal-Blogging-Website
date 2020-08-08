@@ -17,7 +17,7 @@
   <li>MySQL</li>
 </ul>
 
-<b>How To Install
+<b>How To Install</b>
 <ul>  
     <li>Create a database
     <li>Import blogum.sql
@@ -29,5 +29,5 @@
   <li>Open http://yourdomain/admin/
 </ul>
 
-Username : Admin Password: 123
+Username : Admin Password: 123 <br />
 Edit Website
